@@ -22,4 +22,8 @@ is meant to avoid the clouds and detect features in the game.
 Our delivered project to the customer is a playable WebGL format of our game called 'Neural Navigate'.  
 **Here is a link to our final product: [Neural Navigate](https://milesjhl.github.io/craftprospectgame/ "link")** 
 
-# Neural-Navigate
+To use this git repository:
+
+1. Install Unity - https://unity3d.com/
+2. On starting unity select open
+3. Select 'CraftProspectGame' from git folder
